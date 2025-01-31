@@ -71,12 +71,12 @@ A mudança de estados é controlada por um **temporizador periódico**, que acio
 
 ```
        Raspberry Pi Pico W
-    +----------------------+
-    |                      |
+    +---------------------------+
+    |                           |
     |  GPIO 13 -> LED Vermelho  |
     |  GPIO 12 -> LED Amarelo   |
     |  GPIO 11 -> LED Verde     |
-    +----------------------+
+    +---------------------------+
 ```
 
 Caso esteja utilizando a ferramenta **BitDogLab**, conectar o LED RGB nos GPIOs 11, 12 e 13.  
