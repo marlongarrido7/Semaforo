@@ -208,7 +208,7 @@ int main() {
 ## Demonstração em Vídeo  
 
 - Explicação e demonstração do funcionamento do semáforo:  
-  [https://youtu.be/HGuRSortY4U](https://youtu.be/HGuRSortY4U)  
+  [https://youtu.be/c3K2EI203nw](https://youtu.be/c3K2EI203nw)  
 
 ---
 
