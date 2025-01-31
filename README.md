@@ -1,3 +1,7 @@
+Aqui está o README atualizado com o link do vídeo adicionado na seção correta.
+
+---
+
 # Utilização de Temporizador Periódico no Raspberry Pi Pico W 2040 - Semáforo
 
 ## Autor do Projeto  
@@ -203,15 +207,12 @@ int main() {
 - **Documentação Oficial do Raspberry Pi Pico SDK**  
   [https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-c-sdk.pdf](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-c-sdk.pdf)  
 
-- **BitDogLab - Simulação com LED RGB**  
-  [https://bitdoglab.com/](https://bitdoglab.com/)  
-
 ---
 
 ## Demonstração em Vídeo  
 
 - Explicação e demonstração do funcionamento do semáforo:  
-  [Link do vídeo (caso disponível)]  
+  [https://youtu.be/HGuRSortY4U](https://youtu.be/HGuRSortY4U)  
 
 ---
 
