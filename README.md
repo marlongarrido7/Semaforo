@@ -1,7 +1,3 @@
-Aqui está o README atualizado com o link do vídeo adicionado na seção correta.
-
----
-
 # Utilização de Temporizador Periódico no Raspberry Pi Pico W 2040 - Semáforo
 
 ## Autor do Projeto  
